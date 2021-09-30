@@ -6,4 +6,4 @@ Issue link: https://github.com/Tonejs/Tone.js/issues/957
 - `npm i`
 - `npm start`
 - Click on the PLAY button on the rendered page at http://localhost:4200
-- Listen for the note to not following the tempo perfectly
+- Listen for the note that looses sync with the tempo.
