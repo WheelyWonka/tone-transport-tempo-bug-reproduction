@@ -1,6 +1,6 @@
 # Bug reproduction repo
 
-Issue link: 
+Issue link: https://github.com/Tonejs/Tone.js/issues/957
 
 ## Step to reproduce the bug
 - `npm i`
